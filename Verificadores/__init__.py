@@ -1,0 +1,3 @@
+from .verificar_loja_criado import verificar_loja_criada, loja_criada_true
+from .verificar_pos_criado import verificar_pos_criada, pos_criado_true
+from .verificar_token import verificar_token_true, conectar_token_cod
